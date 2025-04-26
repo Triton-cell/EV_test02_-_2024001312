@@ -1,0 +1,61 @@
+[3.141s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo_harmonic': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo_harmonic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo_harmonic build --build-base /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build install --record /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/install.log --single-version-externally-managed install_data
+[3.530s] running egg_info
+[3.530s] creating ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info
+[3.530s] writing ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/PKG-INFO
+[3.531s] writing dependency_links to ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/dependency_links.txt
+[3.531s] writing entry points to ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/entry_points.txt
+[3.531s] writing requirements to ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/requires.txt
+[3.531s] writing top-level names to ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/top_level.txt
+[3.532s] writing manifest file '../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/SOURCES.txt'
+[3.539s] reading manifest file '../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/SOURCES.txt'
+[3.539s] writing manifest file '../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info/SOURCES.txt'
+[3.540s] running build
+[3.540s] running build_py
+[3.540s] creating /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build
+[3.540s] creating /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build/lib
+[3.540s] creating /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build/lib/learning_gazebo_harmonic
+[3.540s] copying learning_gazebo_harmonic/__init__.py -> /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build/lib/learning_gazebo_harmonic
+[3.541s] running install
+[3.541s] running install_lib
+[3.542s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic
+[3.542s] copying /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build/lib/learning_gazebo_harmonic/__init__.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic
+[3.543s] byte-compiling /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic/__init__.py to __init__.cpython-310.pyc
+[3.543s] running install_data
+[3.544s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/ament_index
+[3.544s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/ament_index/resource_index
+[3.544s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/ament_index/resource_index/packages
+[3.545s] copying resource/learning_gazebo_harmonic -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/ament_index/resource_index/packages
+[3.545s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic
+[3.546s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.546s] copying launch/load_mbot_rgbd_into_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.546s] copying launch/load_mbot_rgbd_into_maze_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.546s] copying launch/load_mbot_lidar_into_maze_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.547s] copying launch/load_mbot_camera_into_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.548s] copying launch/load_mbot_lidar_into_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.549s] copying launch/load_urdf_into_gazebo_harmonic.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/launch
+[3.549s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.549s] copying urdf/mbot_with_lidar.sdf -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.549s] copying urdf/mbot_with_rgbd_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.549s] copying urdf/mbot_with_lidar_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.550s] copying urdf/mbot_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.550s] copying urdf/mbot_with_camera_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.550s] copying urdf/mbot_base_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf
+[3.550s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf/sensors
+[3.550s] copying urdf/sensors/camera_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf/sensors
+[3.551s] copying urdf/sensors/lidar_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf/sensors
+[3.551s] copying urdf/sensors/rgbd_gazebo_harmonic.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/urdf/sensors
+[3.551s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/worlds
+[3.551s] copying worlds/empty.sdf -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/worlds
+[3.552s] copying worlds/maze.sdf -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/worlds
+[3.552s] copying worlds/depot.sdf -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/worlds
+[3.552s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/rviz
+[3.552s] creating /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/config
+[3.552s] copying config/ros_gz_bridge_mbot_lidar.yaml -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/config
+[3.552s] copying config/ros_gz_bridge_mbot_rgbd.yaml -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/config
+[3.552s] copying config/ros_gz_bridge_mbot.yaml -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/config
+[3.553s] copying config/ros_gz_bridge_mbot_camera.yaml -> /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/share/learning_gazebo_harmonic/config
+[3.555s] running install_egg_info
+[3.556s] Copying ../../../build/learning_gazebo_harmonic/learning_gazebo_harmonic.egg-info to /home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages/learning_gazebo_harmonic-0.0.0-py3.10.egg-info
+[3.557s] running install_scripts
+[3.593s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_gazebo_harmonic/install.log'
+[3.721s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo_harmonic' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo_harmonic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo_harmonic build --build-base /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/build install --record /home/ubuntu/dev_ws/build/learning_gazebo_harmonic/install.log --single-version-externally-managed install_data

@@ -1,0 +1,20 @@
+[1.180s] Invoking command in '/home/ubuntu/dev_ws/Src/learning_pkg_py': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_pkg_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_pkg_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning_pkg_py build --build-base /home/ubuntu/dev_ws/build/learning_pkg_py/build install --record /home/ubuntu/dev_ws/build/learning_pkg_py/install.log --single-version-externally-managed install_data
+[1.933s] running egg_info
+[1.934s] writing ../../build/learning_pkg_py/learning_pkg_py.egg-info/PKG-INFO
+[1.936s] writing dependency_links to ../../build/learning_pkg_py/learning_pkg_py.egg-info/dependency_links.txt
+[1.936s] writing entry points to ../../build/learning_pkg_py/learning_pkg_py.egg-info/entry_points.txt
+[1.937s] writing requirements to ../../build/learning_pkg_py/learning_pkg_py.egg-info/requires.txt
+[1.937s] writing top-level names to ../../build/learning_pkg_py/learning_pkg_py.egg-info/top_level.txt
+[1.937s] reading manifest file '../../build/learning_pkg_py/learning_pkg_py.egg-info/SOURCES.txt'
+[1.938s] writing manifest file '../../build/learning_pkg_py/learning_pkg_py.egg-info/SOURCES.txt'
+[1.938s] running build
+[1.938s] running build_py
+[1.938s] running install
+[1.938s] running install_lib
+[1.938s] running install_data
+[1.938s] running install_egg_info
+[1.938s] removing '/home/ubuntu/dev_ws/install/learning_pkg_py/lib/python3.10/site-packages/learning_pkg_py-0.0.0-py3.10.egg-info' (and everything under it)
+[1.938s] Copying ../../build/learning_pkg_py/learning_pkg_py.egg-info to /home/ubuntu/dev_ws/install/learning_pkg_py/lib/python3.10/site-packages/learning_pkg_py-0.0.0-py3.10.egg-info
+[1.938s] running install_scripts
+[1.938s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_pkg_py/install.log'
+[2.708s] Invoked command in '/home/ubuntu/dev_ws/Src/learning_pkg_py' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_pkg_py/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_pkg_py/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/learning_pkg_py build --build-base /home/ubuntu/dev_ws/build/learning_pkg_py/build install --record /home/ubuntu/dev_ws/build/learning_pkg_py/install.log --single-version-externally-managed install_data

@@ -1,0 +1,6 @@
+Invoking command in '/home/ubuntu/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_interface
+Invoked command in '/home/ubuntu/dev_ws/build/learning_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_interface
+Invoking command in '/home/ubuntu/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_interface -- -j8 -l8
+Invoked command in '/home/ubuntu/dev_ws/build/learning_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_interface -- -j8 -l8
+Invoking command in '/home/ubuntu/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_interface
+Invoked command in '/home/ubuntu/dev_ws/build/learning_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_interface

@@ -1,0 +1,21 @@
+[3.580s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_cv': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_cv build --build-base /home/ubuntu/dev_ws/build/learning_cv/build install --record /home/ubuntu/dev_ws/build/learning_cv/install.log --single-version-externally-managed install_data
+[3.991s] running egg_info
+[3.991s] writing ../../../build/learning_cv/learning_cv.egg-info/PKG-INFO
+[3.993s] writing dependency_links to ../../../build/learning_cv/learning_cv.egg-info/dependency_links.txt
+[3.995s] writing entry points to ../../../build/learning_cv/learning_cv.egg-info/entry_points.txt
+[3.995s] writing requirements to ../../../build/learning_cv/learning_cv.egg-info/requires.txt
+[3.995s] writing top-level names to ../../../build/learning_cv/learning_cv.egg-info/top_level.txt
+[3.998s] reading manifest file '../../../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[4.001s] writing manifest file '../../../build/learning_cv/learning_cv.egg-info/SOURCES.txt'
+[4.001s] running build
+[4.001s] running build_py
+[4.003s] running install
+[4.005s] running install_lib
+[4.008s] running install_data
+[4.008s] running install_egg_info
+[4.014s] removing '/home/ubuntu/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv-0.0.0-py3.10.egg-info' (and everything under it)
+[4.014s] Copying ../../../build/learning_cv/learning_cv.egg-info to /home/ubuntu/dev_ws/install/learning_cv/lib/python3.10/site-packages/learning_cv-0.0.0-py3.10.egg-info
+[4.015s] running install_scripts
+[4.055s] Installing cv_bridge_test script to /home/ubuntu/dev_ws/install/learning_cv/lib/learning_cv
+[4.056s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_cv/install.log'
+[4.189s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_cv' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_cv/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_cv/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_cv build --build-base /home/ubuntu/dev_ws/build/learning_cv/build install --record /home/ubuntu/dev_ws/build/learning_cv/install.log --single-version-externally-managed install_data

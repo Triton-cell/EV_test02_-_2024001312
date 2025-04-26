@@ -1,0 +1,22 @@
+[3.296s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_parameter': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_parameter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_parameter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_parameter build --build-base /home/ubuntu/dev_ws/build/learning_parameter/build install --record /home/ubuntu/dev_ws/build/learning_parameter/install.log --single-version-externally-managed install_data
+[3.694s] running egg_info
+[3.694s] writing ../../../build/learning_parameter/learning_parameter.egg-info/PKG-INFO
+[3.695s] writing dependency_links to ../../../build/learning_parameter/learning_parameter.egg-info/dependency_links.txt
+[3.711s] writing entry points to ../../../build/learning_parameter/learning_parameter.egg-info/entry_points.txt
+[3.711s] writing requirements to ../../../build/learning_parameter/learning_parameter.egg-info/requires.txt
+[3.712s] writing top-level names to ../../../build/learning_parameter/learning_parameter.egg-info/top_level.txt
+[3.712s] reading manifest file '../../../build/learning_parameter/learning_parameter.egg-info/SOURCES.txt'
+[3.712s] writing manifest file '../../../build/learning_parameter/learning_parameter.egg-info/SOURCES.txt'
+[3.712s] running build
+[3.712s] running build_py
+[3.715s] running install
+[3.715s] running install_lib
+[3.720s] running install_data
+[3.720s] running install_egg_info
+[3.723s] removing '/home/ubuntu/dev_ws/install/learning_parameter/lib/python3.10/site-packages/learning_parameter-0.0.0-py3.10.egg-info' (and everything under it)
+[3.726s] Copying ../../../build/learning_parameter/learning_parameter.egg-info to /home/ubuntu/dev_ws/install/learning_parameter/lib/python3.10/site-packages/learning_parameter-0.0.0-py3.10.egg-info
+[3.731s] running install_scripts
+[3.781s] Installing param_declare script to /home/ubuntu/dev_ws/install/learning_parameter/lib/learning_parameter
+[3.781s] Installing param_object_detect script to /home/ubuntu/dev_ws/install/learning_parameter/lib/learning_parameter
+[3.781s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_parameter/install.log'
+[3.916s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_parameter' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_parameter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_parameter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_parameter build --build-base /home/ubuntu/dev_ws/build/learning_parameter/build install --record /home/ubuntu/dev_ws/build/learning_parameter/install.log --single-version-externally-managed install_data

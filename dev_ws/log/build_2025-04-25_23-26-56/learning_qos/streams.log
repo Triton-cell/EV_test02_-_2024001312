@@ -1,0 +1,41 @@
+[2.196s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_qos': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_qos build --build-base /home/ubuntu/dev_ws/build/learning_qos/build install --record /home/ubuntu/dev_ws/build/learning_qos/install.log --single-version-externally-managed install_data
+[2.966s] running egg_info
+[2.966s] creating ../../../build/learning_qos/learning_qos.egg-info
+[2.967s] writing ../../../build/learning_qos/learning_qos.egg-info/PKG-INFO
+[2.967s] writing dependency_links to ../../../build/learning_qos/learning_qos.egg-info/dependency_links.txt
+[2.967s] writing entry points to ../../../build/learning_qos/learning_qos.egg-info/entry_points.txt
+[2.968s] writing requirements to ../../../build/learning_qos/learning_qos.egg-info/requires.txt
+[2.968s] writing top-level names to ../../../build/learning_qos/learning_qos.egg-info/top_level.txt
+[2.968s] writing manifest file '../../../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.971s] reading manifest file '../../../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.980s] writing manifest file '../../../build/learning_qos/learning_qos.egg-info/SOURCES.txt'
+[2.980s] running build
+[2.980s] running build_py
+[2.980s] creating /home/ubuntu/dev_ws/build/learning_qos/build
+[2.980s] creating /home/ubuntu/dev_ws/build/learning_qos/build/lib
+[2.980s] creating /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos
+[2.981s] copying learning_qos/qos_helloworld_pub.py -> /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos
+[2.981s] copying learning_qos/__init__.py -> /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos
+[2.981s] copying learning_qos/qos_helloworld_sub.py -> /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos
+[2.981s] running install
+[2.985s] running install_lib
+[2.985s] creating /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.985s] copying /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos/qos_helloworld_pub.py -> /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.985s] copying /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos/__init__.py -> /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.985s] copying /home/ubuntu/dev_ws/build/learning_qos/build/lib/learning_qos/qos_helloworld_sub.py -> /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos
+[2.986s] byte-compiling /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_pub.py to qos_helloworld_pub.cpython-310.pyc
+[2.987s] byte-compiling /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/__init__.py to __init__.cpython-310.pyc
+[2.987s] byte-compiling /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos/qos_helloworld_sub.py to qos_helloworld_sub.cpython-310.pyc
+[2.991s] running install_data
+[2.991s] creating /home/ubuntu/dev_ws/install/learning_qos/share/ament_index
+[2.991s] creating /home/ubuntu/dev_ws/install/learning_qos/share/ament_index/resource_index
+[2.991s] creating /home/ubuntu/dev_ws/install/learning_qos/share/ament_index/resource_index/packages
+[2.991s] copying resource/learning_qos -> /home/ubuntu/dev_ws/install/learning_qos/share/ament_index/resource_index/packages
+[2.991s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_qos/share/learning_qos
+[2.991s] running install_egg_info
+[2.993s] Copying ../../../build/learning_qos/learning_qos.egg-info to /home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages/learning_qos-0.0.0-py3.10.egg-info
+[2.995s] running install_scripts
+[3.038s] Installing qos_helloworld_pub script to /home/ubuntu/dev_ws/install/learning_qos/lib/learning_qos
+[3.038s] Installing qos_helloworld_sub script to /home/ubuntu/dev_ws/install/learning_qos/lib/learning_qos
+[3.042s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_qos/install.log'
+[3.565s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_qos' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_qos/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_qos/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_qos build --build-base /home/ubuntu/dev_ws/build/learning_qos/build install --record /home/ubuntu/dev_ws/build/learning_qos/install.log --single-version-externally-managed install_data

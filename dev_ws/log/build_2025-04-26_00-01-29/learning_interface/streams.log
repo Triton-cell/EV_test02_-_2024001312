@@ -1,0 +1,251 @@
+[0.110s] Invoking command in '/home/ubuntu/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_interface -- -j8 -l8
+[2.095s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_generator_c[0m
+[2.095s] [  1%] Built target learning_interface__cpp
+[2.095s] [ 12%] Built target learning_interface__rosidl_generator_c
+[2.095s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_cpp[0m
+[2.095s] [ 12%] Built target ament_cmake_python_copy_learning_interface
+[2.096s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_introspection_cpp[0m
+[2.096s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_fastrtps_cpp[0m
+[2.096s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_c[0m
+[2.097s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_fastrtps_c[0m
+[2.097s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_introspection_c[0m
+[2.098s] [ 29%] Built target learning_interface__rosidl_typesupport_introspection_cpp
+[2.098s] [ 34%] Built target learning_interface__rosidl_typesupport_cpp
+[2.102s] [ 45%] Built target learning_interface__rosidl_typesupport_c
+[2.103s] [ 56%] Built target learning_interface__rosidl_typesupport_fastrtps_cpp
+[2.103s] [ 67%] Built target learning_interface__rosidl_typesupport_introspection_c
+[2.103s] [ 78%] Built target learning_interface__rosidl_typesupport_fastrtps_c
+[2.104s] [ 78%] Built target learning_interface
+[2.104s] [ 80%] Built target learning_interface__py
+[2.104s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_generator_py[0m
+[2.104s] [ 89%] Built target learning_interface__rosidl_generator_py
+[2.104s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_fastrtps_c__pyext[0m
+[2.105s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_c__pyext[0m
+[2.105s] [35m[1mConsolidate compiler generated dependencies of target learning_interface__rosidl_typesupport_introspection_c__pyext[0m
+[2.105s] [ 92%] Built target learning_interface__rosidl_typesupport_fastrtps_c__pyext
+[2.105s] [ 96%] Built target learning_interface__rosidl_typesupport_c__pyext
+[2.105s] [100%] Built target learning_interface__rosidl_typesupport_introspection_c__pyext
+[2.105s] running egg_info
+[2.105s] writing learning_interface.egg-info/PKG-INFO
+[2.105s] writing dependency_links to learning_interface.egg-info/dependency_links.txt
+[2.105s] writing top-level names to learning_interface.egg-info/top_level.txt
+[2.106s] reading manifest file 'learning_interface.egg-info/SOURCES.txt'
+[2.106s] writing manifest file 'learning_interface.egg-info/SOURCES.txt'
+[2.106s] [100%] Built target ament_cmake_python_build_learning_interface_egg
+[2.465s] Invoked command in '/home/ubuntu/dev_ws/build/learning_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_interface -- -j8 -l8
+[2.486s] Invoking command in '/home/ubuntu/dev_ws/build/learning_interface': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_interface
+[2.512s] -- Install configuration: ""
+[2.513s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/ament_index/resource_index/rosidl_interfaces/learning_interface
+[2.515s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.515s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.515s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/object_position.h
+[2.516s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.516s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__struct.h
+[2.516s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__type_support.h
+[2.516s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__functions.h
+[2.517s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__functions.c
+[2.517s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/rosidl_generator_c__visibility_control.h
+[2.517s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.517s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.518s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__functions.h
+[2.519s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__functions.c
+[2.519s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__type_support.h
+[2.520s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__struct.h
+[2.520s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/move_circle.h
+[2.520s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.520s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/add_two_ints.h
+[2.520s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/get_object_position.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__struct.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__type_support.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__functions.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__functions.c
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__functions.c
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__functions.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__struct.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__type_support.h
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/library_path.sh
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/library_path.dsv
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_generator_c.so
+[2.521s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__rosidl_typesupport_fastrtps_c.h
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__rosidl_typesupport_fastrtps_c.h
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_c.h
+[2.522s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__rosidl_typesupport_fastrtps_c.h
+[2.524s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_fastrtps_c.so
+[2.524s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.524s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.524s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.525s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__rosidl_typesupport_introspection_c.h
+[2.525s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__type_support.c
+[2.525s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__rosidl_typesupport_introspection_c.h
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__type_support.c
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.527s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.528s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__type_support.c
+[2.529s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__rosidl_typesupport_introspection_c.h
+[2.531s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__type_support.c
+[2.531s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__rosidl_typesupport_introspection_c.h
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_introspection_c.so
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_c.so
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/object_position.hpp
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.532s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__type_support.hpp
+[2.533s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__struct.hpp
+[2.533s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__builder.hpp
+[2.533s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__traits.hpp
+[2.533s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/rosidl_generator_cpp__visibility_control.hpp
+[2.533s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.539s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/move_circle.hpp
+[2.539s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.539s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__struct.hpp
+[2.539s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__builder.hpp
+[2.539s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__type_support.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__traits.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/get_object_position.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/add_two_ints.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__traits.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__traits.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__builder.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__struct.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__struct.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__type_support.hpp
+[2.540s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__type_support.hpp
+[2.541s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__builder.hpp
+[2.541s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.541s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.541s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/dds_fastrtps
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__rosidl_typesupport_fastrtps_cpp.hpp
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/dds_fastrtps
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__rosidl_typesupport_fastrtps_cpp.hpp
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.542s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__rosidl_typesupport_fastrtps_cpp.hpp
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__rosidl_typesupport_fastrtps_cpp.hpp
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/dds_fastrtps
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_fastrtps_cpp.so
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__type_support.cpp
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/msg/detail/object_position__rosidl_typesupport_introspection_cpp.hpp
+[2.543s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__rosidl_typesupport_introspection_cpp.hpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/action/detail/move_circle__type_support.cpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__type_support.cpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__type_support.cpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/add_two_ints__rosidl_typesupport_introspection_cpp.hpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/include/learning_interface/learning_interface/srv/detail/get_object_position__rosidl_typesupport_introspection_cpp.hpp
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_introspection_cpp.so
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_typesupport_cpp.so
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/pythonpath.sh
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/pythonpath.dsv
+[2.544s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface-0.0.0-py3.10.egg-info
+[2.544s] -- Installing: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface-0.0.0-py3.10.egg-info/dependency_links.txt
+[2.544s] -- Installing: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface-0.0.0-py3.10.egg-info/top_level.txt
+[2.544s] -- Installing: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface-0.0.0-py3.10.egg-info/SOURCES.txt
+[2.545s] -- Installing: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface-0.0.0-py3.10.egg-info/PKG-INFO
+[2.546s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface
+[2.546s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/_learning_interface_s.ep.rosidl_typesupport_fastrtps_c.c
+[2.546s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.546s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/msg
+[2.547s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/msg/__init__.py
+[2.547s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/msg/_object_position_s.c
+[2.547s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/msg/_object_position.py
+[2.547s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.547s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/action
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/action/_move_circle.py
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/action/__init__.py
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/action/_move_circle_s.c
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv/_get_object_position.py
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv/_get_object_position_s.c
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv/__init__.py
+[2.548s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv/_add_two_ints_s.c
+[2.549s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv/_add_two_ints.py
+[2.550s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/__init__.py
+[2.550s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/_learning_interface_s.ep.rosidl_typesupport_introspection_c.c
+[2.551s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/_learning_interface_s.ep.rosidl_typesupport_c.c
+[2.551s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/liblearning_interface__rosidl_generator_py.so
+[2.552s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.607s] Listing '/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface'...
+[2.607s] Listing '/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/action'...
+[2.607s] Listing '/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/msg'...
+[2.607s] Listing '/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/srv'...
+[2.617s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[2.618s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[2.622s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages/learning_interface/learning_interface_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[2.623s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/lib/liblearning_interface__rosidl_generator_py.so
+[2.624s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/msg/ObjectPosition.idl
+[2.624s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/AddTwoInts.idl
+[2.626s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/GetObjectPosition.idl
+[2.626s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/action/MoveCircle.idl
+[2.629s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/msg/ObjectPosition.msg
+[2.635s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/AddTwoInts.srv
+[2.635s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/AddTwoInts_Request.msg
+[2.636s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/AddTwoInts_Response.msg
+[2.636s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/GetObjectPosition.srv
+[2.637s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/GetObjectPosition_Request.msg
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/srv/GetObjectPosition_Response.msg
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/action/MoveCircle.action
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/ament_index/resource_index/package_run_dependencies/learning_interface
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/ament_index/resource_index/parent_prefix_path/learning_interface
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/ament_prefix_path.sh
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/ament_prefix_path.dsv
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/path.sh
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/environment/path.dsv
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/local_setup.bash
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/local_setup.sh
+[2.638s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/local_setup.zsh
+[2.639s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/local_setup.dsv
+[2.639s] -- Installing: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/package.dsv
+[2.639s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/ament_index/resource_index/packages/learning_interface
+[2.644s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_generator_cExport.cmake
+[2.644s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_generator_cExport-noconfig.cmake
+[2.645s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_typesupport_fastrtps_cExport.cmake
+[2.645s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_introspection_cExport.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_cExport.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_cExport-noconfig.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_generator_cppExport.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_typesupport_fastrtps_cppExport.cmake
+[2.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[2.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_introspection_cppExport.cmake
+[2.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[2.653s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_cppExport.cmake
+[2.653s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interface__rosidl_typesupport_cppExport-noconfig.cmake
+[2.654s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_generator_pyExport.cmake
+[2.655s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/export_learning_interface__rosidl_generator_pyExport-noconfig.cmake
+[2.655s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/rosidl_cmake-extras.cmake
+[2.656s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/ament_cmake_export_dependencies-extras.cmake
+[2.656s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/ament_cmake_export_include_directories-extras.cmake
+[2.656s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/ament_cmake_export_libraries-extras.cmake
+[2.656s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/ament_cmake_export_targets-extras.cmake
+[2.661s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[2.661s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[2.661s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interfaceConfig.cmake
+[2.662s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/cmake/learning_interfaceConfig-version.cmake
+[2.662s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_interface/share/learning_interface/package.xml
+[2.667s] Invoked command in '/home/ubuntu/dev_ws/build/learning_interface' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_interface

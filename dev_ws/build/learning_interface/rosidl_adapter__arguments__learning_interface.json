@@ -1,0 +1,9 @@
+{
+  "package_name": "learning_interface",
+  "non_idl_tuples": [
+    "/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface:msg/ObjectPosition.msg",
+    "/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface:srv/AddTwoInts.srv",
+    "/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface:srv/GetObjectPosition.srv",
+    "/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_interface:action/MoveCircle.action"
+  ]
+}

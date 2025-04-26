@@ -1,0 +1,9 @@
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/uninstall.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/learning_pkg_C_uninstall.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/test.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/list_install_components.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/install.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/install/local.dir
+/home/ubuntu/dev_ws/build/learning_pkg_C/CMakeFiles/install/strip.dir

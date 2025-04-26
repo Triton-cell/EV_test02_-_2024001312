@@ -1,0 +1,20 @@
+[3.561s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /home/ubuntu/dev_ws/build/learning_gazebo/build install --record /home/ubuntu/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data
+[3.953s] running egg_info
+[3.953s] writing ../../../build/learning_gazebo/learning_gazebo.egg-info/PKG-INFO
+[3.955s] writing dependency_links to ../../../build/learning_gazebo/learning_gazebo.egg-info/dependency_links.txt
+[3.956s] writing entry points to ../../../build/learning_gazebo/learning_gazebo.egg-info/entry_points.txt
+[3.960s] writing requirements to ../../../build/learning_gazebo/learning_gazebo.egg-info/requires.txt
+[3.960s] writing top-level names to ../../../build/learning_gazebo/learning_gazebo.egg-info/top_level.txt
+[3.971s] reading manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.971s] writing manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.972s] running build
+[3.972s] running build_py
+[3.973s] running install
+[3.975s] running install_lib
+[3.976s] running install_data
+[3.981s] running install_egg_info
+[3.986s] removing '/home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo-0.0.0-py3.10.egg-info' (and everything under it)
+[3.986s] Copying ../../../build/learning_gazebo/learning_gazebo.egg-info to /home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo-0.0.0-py3.10.egg-info
+[3.988s] running install_scripts
+[4.027s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_gazebo/install.log'
+[4.126s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /home/ubuntu/dev_ws/build/learning_gazebo/build install --record /home/ubuntu/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data

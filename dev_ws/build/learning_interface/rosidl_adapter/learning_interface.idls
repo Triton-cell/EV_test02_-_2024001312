@@ -1,0 +1,4 @@
+/home/ubuntu/dev_ws/build/learning_interface/rosidl_adapter/learning_interface:msg/ObjectPosition.idl
+/home/ubuntu/dev_ws/build/learning_interface/rosidl_adapter/learning_interface:srv/AddTwoInts.idl
+/home/ubuntu/dev_ws/build/learning_interface/rosidl_adapter/learning_interface:srv/GetObjectPosition.idl
+/home/ubuntu/dev_ws/build/learning_interface/rosidl_adapter/learning_interface:action/MoveCircle.idl

@@ -1,0 +1,30 @@
+[0.816s] Invoking command in '/home/ubuntu/dev_ws/build/learning_tf_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_tf_cpp -- -j8 -l8
+[1.217s] [ 25%] Built target static_tf_broadcaster
+[1.217s] [ 75%] Built target turtle_following
+[1.219s] [ 75%] Built target tf_listener
+[1.221s] [100%] Built target turtle_tf_broadcaster
+[1.587s] Invoked command in '/home/ubuntu/dev_ws/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_tf_cpp -- -j8 -l8
+[1.594s] Invoking command in '/home/ubuntu/dev_ws/build/learning_tf_cpp': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_tf_cpp
+[1.625s] -- Install configuration: ""
+[1.625s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster
+[1.625s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster
+[1.625s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener
+[1.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following
+[1.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp//launch
+[1.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp//launch/turtle_following_demo.launch.py
+[1.649s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf_cpp
+[1.650s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf_cpp
+[1.650s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.sh
+[1.650s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.dsv
+[1.650s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.sh
+[1.650s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.dsv
+[1.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.bash
+[1.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.sh
+[1.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.zsh
+[1.651s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.dsv
+[1.651s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/package.dsv
+[1.652s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/packages/learning_tf_cpp
+[1.652s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig.cmake
+[1.652s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig-version.cmake
+[1.652s] -- Up-to-date: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/package.xml
+[1.659s] Invoked command in '/home/ubuntu/dev_ws/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/ubuntu/dev_ws/install/learning_urdf:/home/ubuntu/dev_ws/install/learning_topic:/home/ubuntu/dev_ws/install/learning_tf:/home/ubuntu/dev_ws/install/learning_service:/home/ubuntu/dev_ws/install/learning_qos:/home/ubuntu/dev_ws/install/learning_pkg_python:/home/ubuntu/dev_ws/install/learning_parameter:/home/ubuntu/dev_ws/install/learning_node:/home/ubuntu/dev_ws/install/learning_launch:/home/ubuntu/dev_ws/install/learning_action:/home/ubuntu/dev_ws/install/learning_gazebo_harmonic:/home/ubuntu/dev_ws/install/learning_gazebo:/home/ubuntu/dev_ws/install/learning_cv:/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_tf_cpp

@@ -1,0 +1,6 @@
+Invoking command in '/home/ubuntu/dev_ws/build/learning_pkg_c': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_pkg_c -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_pkg_c
+Invoked command in '/home/ubuntu/dev_ws/build/learning_pkg_c' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_pkg_c -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_pkg_c
+Invoking command in '/home/ubuntu/dev_ws/build/learning_pkg_c': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_pkg_c -- -j8 -l8
+Invoked command in '/home/ubuntu/dev_ws/build/learning_pkg_c' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_pkg_c -- -j8 -l8
+Invoking command in '/home/ubuntu/dev_ws/build/learning_pkg_c': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_pkg_c
+Invoked command in '/home/ubuntu/dev_ws/build/learning_pkg_c' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_pkg_c

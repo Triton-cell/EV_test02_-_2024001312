@@ -1,0 +1,73 @@
+[0.039s] Invoking command in '/home/ubuntu/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_topic_cpp -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_topic_cpp
+[0.260s] -- The C compiler identification is GNU 11.4.0
+[0.511s] -- The CXX compiler identification is GNU 11.4.0
+[0.541s] -- Detecting C compiler ABI info
+[0.916s] -- Detecting C compiler ABI info - done
+[0.948s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.948s] -- Detecting C compile features
+[0.950s] -- Detecting C compile features - done
+[0.964s] -- Detecting CXX compiler ABI info
+[1.372s] -- Detecting CXX compiler ABI info - done
+[1.401s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.401s] -- Detecting CXX compile features
+[1.403s] -- Detecting CXX compile features - done
+[1.413s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.998s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[2.384s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[2.444s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[2.456s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[2.467s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[2.514s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.550s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[2.613s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.617s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[3.126s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[3.176s] -- Found FastRTPS: /opt/ros/humble/include  
+[3.274s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[3.285s] -- Looking for pthread.h
+[3.586s] -- Looking for pthread.h - found
+[3.591s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.797s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.798s] -- Found Threads: TRUE  
+[4.106s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[4.333s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[4.333s] -- Configured cppcheck include dirs: 
+[4.333s] -- Configured cppcheck exclude dirs and/or files: 
+[4.337s] -- Added test 'lint_cmake' to check CMake code style
+[4.338s] -- Added test 'uncrustify' to check C / C++ code style
+[4.338s] -- Configured uncrustify additional arguments: 
+[4.338s] -- Added test 'xmllint' to check XML markup files
+[4.339s] -- Configuring done
+[4.364s] -- Generating done
+[4.371s] -- Build files have been written to: /home/ubuntu/dev_ws/build/learning_topic_cpp
+[4.393s] Invoked command in '/home/ubuntu/dev_ws/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_topic_cpp -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_topic_cpp
+[4.395s] Invoking command in '/home/ubuntu/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_topic_cpp -- -j8 -l8
+[4.511s] [ 25%] [32mBuilding CXX object CMakeFiles/topic_helloworld_sub.dir/src/topic_helloworld_sub.cpp.o[0m
+[4.521s] [ 50%] [32mBuilding CXX object CMakeFiles/topic_helloworld_pub.dir/src/topic_helloworld_pub.cpp.o[0m
+[20.735s] [ 75%] [32m[1mLinking CXX executable topic_helloworld_pub[0m
+[21.259s] [ 75%] Built target topic_helloworld_pub
+[32.222s] [100%] [32m[1mLinking CXX executable topic_helloworld_sub[0m
+[32.911s] [100%] Built target topic_helloworld_sub
+[33.053s] Invoked command in '/home/ubuntu/dev_ws/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_topic_cpp -- -j8 -l8
+[33.060s] Invoking command in '/home/ubuntu/dev_ws/build/learning_topic_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_topic_cpp
+[33.088s] -- Install configuration: ""
+[33.089s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub
+[33.095s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_pub" to ""
+[33.095s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub
+[33.103s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_topic_cpp/lib/learning_topic_cpp/topic_helloworld_sub" to ""
+[33.105s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/package_run_dependencies/learning_topic_cpp
+[33.107s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/parent_prefix_path/learning_topic_cpp
+[33.107s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.sh
+[33.108s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/ament_prefix_path.dsv
+[33.109s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.sh
+[33.109s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/environment/path.dsv
+[33.110s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.bash
+[33.111s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.sh
+[33.112s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.zsh
+[33.112s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/local_setup.dsv
+[33.113s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.dsv
+[33.114s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/ament_index/resource_index/packages/learning_topic_cpp
+[33.115s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig.cmake
+[33.116s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/cmake/learning_topic_cppConfig-version.cmake
+[33.117s] -- Installing: /home/ubuntu/dev_ws/install/learning_topic_cpp/share/learning_topic_cpp/package.xml
+[33.124s] Invoked command in '/home/ubuntu/dev_ws/build/learning_topic_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_topic_cpp

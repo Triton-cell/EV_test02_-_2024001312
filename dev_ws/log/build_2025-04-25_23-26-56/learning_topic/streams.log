@@ -1,0 +1,57 @@
+[5.450s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_topic': AMENT_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface LD_LIBRARY_PATH=/home/ubuntu/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/dev_ws/build/learning_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages:/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_topic build --build-base /home/ubuntu/dev_ws/build/learning_topic/build install --record /home/ubuntu/dev_ws/build/learning_topic/install.log --single-version-externally-managed install_data
+[6.044s] running egg_info
+[6.046s] creating ../../../build/learning_topic/learning_topic.egg-info
+[6.046s] writing ../../../build/learning_topic/learning_topic.egg-info/PKG-INFO
+[6.046s] writing dependency_links to ../../../build/learning_topic/learning_topic.egg-info/dependency_links.txt
+[6.047s] writing entry points to ../../../build/learning_topic/learning_topic.egg-info/entry_points.txt
+[6.050s] writing requirements to ../../../build/learning_topic/learning_topic.egg-info/requires.txt
+[6.050s] writing top-level names to ../../../build/learning_topic/learning_topic.egg-info/top_level.txt
+[6.051s] writing manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[6.052s] reading manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[6.054s] writing manifest file '../../../build/learning_topic/learning_topic.egg-info/SOURCES.txt'
+[6.057s] running build
+[6.057s] running build_py
+[6.058s] creating /home/ubuntu/dev_ws/build/learning_topic/build
+[6.058s] creating /home/ubuntu/dev_ws/build/learning_topic/build/lib
+[6.058s] creating /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.058s] copying learning_topic/topic_helloworld_sub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.059s] copying learning_topic/topic_webcam_pub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.060s] copying learning_topic/topic_webcam_sub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.060s] copying learning_topic/topic_helloworld_pub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.061s] copying learning_topic/__init__.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.062s] copying learning_topic/interface_object_sub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.064s] copying learning_topic/interface_object_pub.py -> /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic
+[6.065s] running install
+[6.066s] running install_lib
+[6.067s] creating /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.067s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_sub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.068s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/topic_webcam_pub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.069s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/topic_webcam_sub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.069s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/topic_helloworld_pub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.070s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/__init__.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.071s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/interface_object_sub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.072s] copying /home/ubuntu/dev_ws/build/learning_topic/build/lib/learning_topic/interface_object_pub.py -> /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic
+[6.074s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_sub.py to topic_helloworld_sub.cpython-310.pyc
+[6.075s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_pub.py to topic_webcam_pub.cpython-310.pyc
+[6.076s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_webcam_sub.py to topic_webcam_sub.cpython-310.pyc
+[6.076s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/topic_helloworld_pub.py to topic_helloworld_pub.cpython-310.pyc
+[6.076s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/__init__.py to __init__.cpython-310.pyc
+[6.078s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_sub.py to interface_object_sub.cpython-310.pyc
+[6.081s] byte-compiling /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic/interface_object_pub.py to interface_object_pub.cpython-310.pyc
+[6.082s] running install_data
+[6.085s] creating /home/ubuntu/dev_ws/install/learning_topic/share/ament_index
+[6.085s] creating /home/ubuntu/dev_ws/install/learning_topic/share/ament_index/resource_index
+[6.087s] creating /home/ubuntu/dev_ws/install/learning_topic/share/ament_index/resource_index/packages
+[6.089s] copying resource/learning_topic -> /home/ubuntu/dev_ws/install/learning_topic/share/ament_index/resource_index/packages
+[6.090s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_topic/share/learning_topic
+[6.093s] running install_egg_info
+[6.100s] Copying ../../../build/learning_topic/learning_topic.egg-info to /home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages/learning_topic-0.0.0-py3.10.egg-info
+[6.100s] running install_scripts
+[6.127s] Installing interface_object_pub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.129s] Installing interface_object_sub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.132s] Installing topic_helloworld_pub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.133s] Installing topic_helloworld_sub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.135s] Installing topic_webcam_pub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.136s] Installing topic_webcam_sub script to /home/ubuntu/dev_ws/install/learning_topic/lib/learning_topic
+[6.141s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_topic/install.log'
+[6.200s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_topic' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface LD_LIBRARY_PATH=/home/ubuntu/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/dev_ws/build/learning_topic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_topic/lib/python3.10/site-packages:/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_topic build --build-base /home/ubuntu/dev_ws/build/learning_topic/build install --record /home/ubuntu/dev_ws/build/learning_topic/install.log --single-version-externally-managed install_data

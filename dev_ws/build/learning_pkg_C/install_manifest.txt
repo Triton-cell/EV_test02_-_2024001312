@@ -1,0 +1,15 @@
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/ament_index/resource_index/package_run_dependencies/learning_pkg_C
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/ament_index/resource_index/parent_prefix_path/learning_pkg_C
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/environment/ament_prefix_path.sh
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/environment/ament_prefix_path.dsv
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/environment/path.sh
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/environment/path.dsv
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/local_setup.bash
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/local_setup.sh
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/local_setup.zsh
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/local_setup.dsv
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/package.dsv
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/ament_index/resource_index/packages/learning_pkg_C
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/cmake/learning_pkg_CConfig.cmake
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/cmake/learning_pkg_CConfig-version.cmake
+/home/ubuntu/dev_ws/install/learning_pkg_C/share/learning_pkg_C/package.xml

@@ -1,0 +1,52 @@
+[1.811s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_urdf': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_urdf build --build-base /home/ubuntu/dev_ws/build/learning_urdf/build install --record /home/ubuntu/dev_ws/build/learning_urdf/install.log --single-version-externally-managed install_data
+[2.512s] running egg_info
+[2.518s] creating ../../../build/learning_urdf/learning_urdf.egg-info
+[2.518s] writing ../../../build/learning_urdf/learning_urdf.egg-info/PKG-INFO
+[2.519s] writing dependency_links to ../../../build/learning_urdf/learning_urdf.egg-info/dependency_links.txt
+[2.520s] writing entry points to ../../../build/learning_urdf/learning_urdf.egg-info/entry_points.txt
+[2.520s] writing requirements to ../../../build/learning_urdf/learning_urdf.egg-info/requires.txt
+[2.524s] writing top-level names to ../../../build/learning_urdf/learning_urdf.egg-info/top_level.txt
+[2.524s] writing manifest file '../../../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.526s] reading manifest file '../../../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.532s] writing manifest file '../../../build/learning_urdf/learning_urdf.egg-info/SOURCES.txt'
+[2.532s] running build
+[2.533s] running build_py
+[2.533s] creating /home/ubuntu/dev_ws/build/learning_urdf/build
+[2.533s] creating /home/ubuntu/dev_ws/build/learning_urdf/build/lib
+[2.533s] creating /home/ubuntu/dev_ws/build/learning_urdf/build/lib/learning_urdf
+[2.533s] copying learning_urdf/__init__.py -> /home/ubuntu/dev_ws/build/learning_urdf/build/lib/learning_urdf
+[2.533s] running install
+[2.534s] running install_lib
+[2.540s] creating /home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[2.541s] copying /home/ubuntu/dev_ws/build/learning_urdf/build/lib/learning_urdf/__init__.py -> /home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf
+[2.541s] byte-compiling /home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf/__init__.py to __init__.cpython-310.pyc
+[2.541s] running install_data
+[2.542s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/ament_index
+[2.543s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/ament_index/resource_index
+[2.546s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/ament_index/resource_index/packages
+[2.546s] copying resource/learning_urdf -> /home/ubuntu/dev_ws/install/learning_urdf/share/ament_index/resource_index/packages
+[2.546s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf
+[2.546s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[2.546s] copying launch/display_xacro.launch.py -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[2.546s] copying launch/display.launch.py -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/launch
+[2.547s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] copying urdf/mbot_with_kinect.urdf -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] copying urdf/mbot_base.urdf -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] copying urdf/mbot_with_laser.urdf -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] copying urdf/mbot_with_camera.urdf -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] copying urdf/mbot_base.xacro -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf
+[2.547s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.548s] copying urdf/sensors/kinect_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.548s] copying urdf/sensors/lidar_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.549s] copying urdf/sensors/camera_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/urdf/sensors
+[2.549s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[2.550s] copying meshes/kinect.jpg -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[2.550s] copying meshes/kinect.tga -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[2.550s] copying meshes/kinect.dae -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/meshes
+[2.552s] creating /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/rviz
+[2.556s] copying rviz/urdf.rviz -> /home/ubuntu/dev_ws/install/learning_urdf/share/learning_urdf/rviz
+[2.556s] running install_egg_info
+[2.556s] Copying ../../../build/learning_urdf/learning_urdf.egg-info to /home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages/learning_urdf-0.0.0-py3.10.egg-info
+[2.558s] running install_scripts
+[2.622s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_urdf/install.log'
+[2.713s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_urdf' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_urdf/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_urdf/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_urdf build --build-base /home/ubuntu/dev_ws/build/learning_urdf/build install --record /home/ubuntu/dev_ws/build/learning_urdf/install.log --single-version-externally-managed install_data

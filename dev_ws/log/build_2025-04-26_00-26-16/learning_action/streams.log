@@ -1,0 +1,22 @@
+[2.221s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_action': CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:/home/ubuntu/dev_ws/install/learning_topic_cpp:/home/ubuntu/dev_ws/install/learning_tf_cpp:/home/ubuntu/dev_ws/install/learning_service_cpp:/home/ubuntu/dev_ws/install/learning_pkg_c:/home/ubuntu/dev_ws/install/learning_parameter_cpp:/home/ubuntu/dev_ws/install/learning_node_cpp:/home/ubuntu/dev_ws/install/learning_action_cpp PYTHONPATH=/home/ubuntu/dev_ws/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_action build --build-base /home/ubuntu/dev_ws/build/learning_action/build install --record /home/ubuntu/dev_ws/build/learning_action/install.log --single-version-externally-managed install_data
+[2.622s] running egg_info
+[2.624s] writing ../../../build/learning_action/learning_action.egg-info/PKG-INFO
+[2.625s] writing dependency_links to ../../../build/learning_action/learning_action.egg-info/dependency_links.txt
+[2.626s] writing entry points to ../../../build/learning_action/learning_action.egg-info/entry_points.txt
+[2.626s] writing requirements to ../../../build/learning_action/learning_action.egg-info/requires.txt
+[2.627s] writing top-level names to ../../../build/learning_action/learning_action.egg-info/top_level.txt
+[2.629s] reading manifest file '../../../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[2.631s] writing manifest file '../../../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[2.631s] running build
+[2.632s] running build_py
+[2.632s] running install
+[2.633s] running install_lib
+[2.635s] running install_data
+[2.635s] running install_egg_info
+[2.638s] removing '/home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info' (and everything under it)
+[2.640s] Copying ../../../build/learning_action/learning_action.egg-info to /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info
+[2.642s] running install_scripts
+[2.686s] Installing action_move_client script to /home/ubuntu/dev_ws/install/learning_action/lib/learning_action
+[2.686s] Installing action_move_server script to /home/ubuntu/dev_ws/install/learning_action/lib/learning_action
+[2.688s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_action/install.log'
+[2.798s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_action' returned '0': CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:/home/ubuntu/dev_ws/install/learning_topic_cpp:/home/ubuntu/dev_ws/install/learning_tf_cpp:/home/ubuntu/dev_ws/install/learning_service_cpp:/home/ubuntu/dev_ws/install/learning_pkg_c:/home/ubuntu/dev_ws/install/learning_parameter_cpp:/home/ubuntu/dev_ws/install/learning_node_cpp:/home/ubuntu/dev_ws/install/learning_action_cpp PYTHONPATH=/home/ubuntu/dev_ws/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_action build --build-base /home/ubuntu/dev_ws/build/learning_action/build install --record /home/ubuntu/dev_ws/build/learning_action/install.log --single-version-externally-managed install_data

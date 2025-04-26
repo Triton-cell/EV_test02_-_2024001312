@@ -1,0 +1,91 @@
+[1.231s] Invoking command in '/home/ubuntu/dev_ws/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_tf_cpp -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_tf_cpp
+[1.419s] -- The C compiler identification is GNU 11.4.0
+[1.589s] -- The CXX compiler identification is GNU 11.4.0
+[1.618s] -- Detecting C compiler ABI info
+[1.897s] -- Detecting C compiler ABI info - done
+[1.930s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.931s] -- Detecting C compile features
+[1.931s] -- Detecting C compile features - done
+[1.934s] -- Detecting CXX compiler ABI info
+[2.326s] -- Detecting CXX compiler ABI info - done
+[2.363s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.363s] -- Detecting CXX compile features
+[2.363s] -- Detecting CXX compile features - done
+[2.371s] -- Found ament_cmake: 1.3.11 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.951s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.232s] -- Found geometry_msgs: 4.8.0 (/opt/ros/humble/share/geometry_msgs/cmake)
+[3.343s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[3.352s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[3.358s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[3.378s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.413s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.511s] -- Found rclcpp: 16.0.12 (/opt/ros/humble/share/rclcpp/cmake)
+[3.623s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[3.632s] -- Found rmw_fastrtps_cpp: 6.2.7 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[4.080s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[4.144s] -- Found FastRTPS: /opt/ros/humble/include  
+[4.267s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[4.267s] -- Looking for pthread.h
+[4.727s] -- Looking for pthread.h - found
+[4.727s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[4.986s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[4.995s] -- Found Threads: TRUE  
+[5.167s] -- Found tf2: 0.25.12 (/opt/ros/humble/share/tf2/cmake)
+[5.220s] -- Found tf2_ros: 0.25.12 (/opt/ros/humble/share/tf2_ros/cmake)
+[5.694s] -- Found turtlesim: 1.4.2 (/opt/ros/humble/share/turtlesim/cmake)
+[5.790s] -- Found ament_lint_auto: 0.12.12 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[5.947s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[5.948s] -- Configured cppcheck include dirs: 
+[5.948s] -- Configured cppcheck exclude dirs and/or files: 
+[5.949s] -- Added test 'flake8' to check Python code syntax and style conventions
+[5.951s] -- Added test 'lint_cmake' to check CMake code style
+[5.952s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[5.953s] -- Added test 'uncrustify' to check C / C++ code style
+[5.953s] -- Configured uncrustify additional arguments: 
+[5.954s] -- Added test 'xmllint' to check XML markup files
+[5.957s] -- Configuring done
+[6.007s] -- Generating done
+[6.026s] -- Build files have been written to: /home/ubuntu/dev_ws/build/learning_tf_cpp
+[6.058s] Invoked command in '/home/ubuntu/dev_ws/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_tf_cpp -DCMAKE_INSTALL_PREFIX=/home/ubuntu/dev_ws/install/learning_tf_cpp
+[6.063s] Invoking command in '/home/ubuntu/dev_ws/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_tf_cpp -- -j8 -l8
+[6.202s] [ 12%] [32mBuilding CXX object CMakeFiles/turtle_tf_broadcaster.dir/src/turtle_tf_broadcaster.cpp.o[0m
+[6.215s] [ 25%] [32mBuilding CXX object CMakeFiles/tf_listener.dir/src/tf_listener.cpp.o[0m
+[6.226s] [ 37%] [32mBuilding CXX object CMakeFiles/static_tf_broadcaster.dir/src/static_tf_broadcaster.cpp.o[0m
+[6.237s] [ 50%] [32mBuilding CXX object CMakeFiles/turtle_following.dir/src/turtle_following.cpp.o[0m
+[19.685s] [ 62%] [32m[1mLinking CXX executable tf_listener[0m
+[20.250s] [ 62%] Built target tf_listener
+[20.600s] [ 75%] [32m[1mLinking CXX executable static_tf_broadcaster[0m
+[21.458s] [ 75%] Built target static_tf_broadcaster
+[25.720s] [ 87%] [32m[1mLinking CXX executable turtle_following[0m
+[26.280s] [ 87%] Built target turtle_following
+[32.723s] [100%] [32m[1mLinking CXX executable turtle_tf_broadcaster[0m
+[33.657s] [100%] Built target turtle_tf_broadcaster
+[33.888s] Invoked command in '/home/ubuntu/dev_ws/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ubuntu/dev_ws/build/learning_tf_cpp -- -j8 -l8
+[33.930s] Invoking command in '/home/ubuntu/dev_ws/build/learning_tf_cpp': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_tf_cpp
+[33.959s] -- Install configuration: ""
+[33.961s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster
+[33.968s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/static_tf_broadcaster" to ""
+[33.969s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster
+[33.979s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_tf_broadcaster" to ""
+[33.979s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener
+[33.981s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/tf_listener" to ""
+[33.981s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following
+[33.990s] -- Set runtime path of "/home/ubuntu/dev_ws/install/learning_tf_cpp/lib/learning_tf_cpp/turtle_following" to ""
+[33.990s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp//launch
+[33.991s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp//launch/turtle_following_demo.launch.py
+[33.995s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/package_run_dependencies/learning_tf_cpp
+[33.996s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/parent_prefix_path/learning_tf_cpp
+[33.997s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.sh
+[33.998s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/ament_prefix_path.dsv
+[33.999s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.sh
+[34.000s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/environment/path.dsv
+[34.001s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.bash
+[34.002s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.sh
+[34.003s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.zsh
+[34.003s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/local_setup.dsv
+[34.004s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/package.dsv
+[34.006s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/ament_index/resource_index/packages/learning_tf_cpp
+[34.007s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig.cmake
+[34.007s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/cmake/learning_tf_cppConfig-version.cmake
+[34.008s] -- Installing: /home/ubuntu/dev_ws/install/learning_tf_cpp/share/learning_tf_cpp/package.xml
+[34.016s] Invoked command in '/home/ubuntu/dev_ws/build/learning_tf_cpp' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/ubuntu/dev_ws/build/learning_tf_cpp

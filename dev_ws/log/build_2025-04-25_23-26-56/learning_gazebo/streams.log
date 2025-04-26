@@ -1,0 +1,64 @@
+[3.154s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /home/ubuntu/dev_ws/build/learning_gazebo/build install --record /home/ubuntu/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data
+[3.559s] running egg_info
+[3.559s] creating ../../../build/learning_gazebo/learning_gazebo.egg-info
+[3.559s] writing ../../../build/learning_gazebo/learning_gazebo.egg-info/PKG-INFO
+[3.559s] writing dependency_links to ../../../build/learning_gazebo/learning_gazebo.egg-info/dependency_links.txt
+[3.560s] writing entry points to ../../../build/learning_gazebo/learning_gazebo.egg-info/entry_points.txt
+[3.561s] writing requirements to ../../../build/learning_gazebo/learning_gazebo.egg-info/requires.txt
+[3.561s] writing top-level names to ../../../build/learning_gazebo/learning_gazebo.egg-info/top_level.txt
+[3.561s] writing manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.562s] reading manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.564s] writing manifest file '../../../build/learning_gazebo/learning_gazebo.egg-info/SOURCES.txt'
+[3.567s] running build
+[3.567s] running build_py
+[3.568s] creating /home/ubuntu/dev_ws/build/learning_gazebo/build
+[3.568s] creating /home/ubuntu/dev_ws/build/learning_gazebo/build/lib
+[3.568s] creating /home/ubuntu/dev_ws/build/learning_gazebo/build/lib/learning_gazebo
+[3.568s] copying learning_gazebo/__init__.py -> /home/ubuntu/dev_ws/build/learning_gazebo/build/lib/learning_gazebo
+[3.568s] running install
+[3.569s] running install_lib
+[3.569s] creating /home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[3.569s] copying /home/ubuntu/dev_ws/build/learning_gazebo/build/lib/learning_gazebo/__init__.py -> /home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo
+[3.569s] byte-compiling /home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo/__init__.py to __init__.cpython-310.pyc
+[3.569s] running install_data
+[3.569s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/ament_index
+[3.569s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/ament_index/resource_index
+[3.570s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/ament_index/resource_index/packages
+[3.570s] copying resource/learning_gazebo -> /home/ubuntu/dev_ws/install/learning_gazebo/share/ament_index/resource_index/packages
+[3.570s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo
+[3.570s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.572s] copying launch/load_mbot_rgbd_into_gazebo.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.572s] copying launch/load_mbot_laser_into_gazebo.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.572s] copying launch/mbot_camera.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.573s] copying launch/mbot_rgbd.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.573s] copying launch/mbot.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.574s] copying launch/load_urdf_into_gazebo.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.575s] copying launch/load_mbot_camera_into_gazebo.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.575s] copying launch/mbot_laser.launch.py -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/launch
+[3.576s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.576s] copying urdf/mbot_with_rgbd_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.576s] copying urdf/mbot_with_camera_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.576s] copying urdf/mbot_with_laser_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.576s] copying urdf/mbot_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.576s] copying urdf/mbot_base_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.577s] copying urdf/two_wheeled_robot_nav2.urdf -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.577s] copying urdf/mbot_with_kinect_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf
+[3.584s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[3.589s] copying meshes/kinect.jpg -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[3.593s] copying meshes/kinect.tga -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[3.595s] copying meshes/kinect.dae -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/meshes
+[3.595s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[3.596s] copying urdf/sensors/rgbd_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[3.596s] copying urdf/sensors/kinect_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[3.596s] copying urdf/sensors/lidar_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[3.596s] copying urdf/sensors/camera_gazebo.xacro -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/urdf/sensors
+[3.596s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[3.596s] copying worlds/neighborhood.world -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[3.596s] copying worlds/empty_world.model -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/worlds
+[3.596s] creating /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/rviz
+[3.596s] copying rviz/urdf_gazebo_config.rviz -> /home/ubuntu/dev_ws/install/learning_gazebo/share/learning_gazebo/rviz
+[3.596s] running install_egg_info
+[3.596s] Copying ../../../build/learning_gazebo/learning_gazebo.egg-info to /home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages/learning_gazebo-0.0.0-py3.10.egg-info
+[3.596s] running install_scripts
+[3.636s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_gazebo/install.log'
+[3.754s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_gazebo' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_gazebo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_gazebo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_gazebo build --build-base /home/ubuntu/dev_ws/build/learning_gazebo/build install --record /home/ubuntu/dev_ws/build/learning_gazebo/install.log --single-version-externally-managed install_data

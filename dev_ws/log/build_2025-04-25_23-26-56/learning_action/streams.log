@@ -1,0 +1,41 @@
+[5.879s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_action': AMENT_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface LD_LIBRARY_PATH=/home/ubuntu/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/dev_ws/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages:/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_action build --build-base /home/ubuntu/dev_ws/build/learning_action/build install --record /home/ubuntu/dev_ws/build/learning_action/install.log --single-version-externally-managed install_data
+[6.574s] running egg_info
+[6.576s] creating ../../../build/learning_action/learning_action.egg-info
+[6.579s] writing ../../../build/learning_action/learning_action.egg-info/PKG-INFO
+[6.580s] writing dependency_links to ../../../build/learning_action/learning_action.egg-info/dependency_links.txt
+[6.580s] writing entry points to ../../../build/learning_action/learning_action.egg-info/entry_points.txt
+[6.580s] writing requirements to ../../../build/learning_action/learning_action.egg-info/requires.txt
+[6.580s] writing top-level names to ../../../build/learning_action/learning_action.egg-info/top_level.txt
+[6.580s] writing manifest file '../../../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[6.580s] reading manifest file '../../../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[6.580s] writing manifest file '../../../build/learning_action/learning_action.egg-info/SOURCES.txt'
+[6.580s] running build
+[6.580s] running build_py
+[6.581s] creating /home/ubuntu/dev_ws/build/learning_action/build
+[6.581s] creating /home/ubuntu/dev_ws/build/learning_action/build/lib
+[6.581s] creating /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action
+[6.581s] copying learning_action/action_move_client.py -> /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action
+[6.593s] copying learning_action/__init__.py -> /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action
+[6.594s] copying learning_action/action_move_server.py -> /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action
+[6.594s] running install
+[6.594s] running install_lib
+[6.596s] creating /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action
+[6.596s] copying /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action/action_move_client.py -> /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action
+[6.596s] copying /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action/__init__.py -> /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action
+[6.596s] copying /home/ubuntu/dev_ws/build/learning_action/build/lib/learning_action/action_move_server.py -> /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action
+[6.596s] byte-compiling /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action/action_move_client.py to action_move_client.cpython-310.pyc
+[6.597s] byte-compiling /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action/__init__.py to __init__.cpython-310.pyc
+[6.597s] byte-compiling /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action/action_move_server.py to action_move_server.cpython-310.pyc
+[6.597s] running install_data
+[6.597s] creating /home/ubuntu/dev_ws/install/learning_action/share/ament_index
+[6.597s] creating /home/ubuntu/dev_ws/install/learning_action/share/ament_index/resource_index
+[6.597s] creating /home/ubuntu/dev_ws/install/learning_action/share/ament_index/resource_index/packages
+[6.597s] copying resource/learning_action -> /home/ubuntu/dev_ws/install/learning_action/share/ament_index/resource_index/packages
+[6.597s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_action/share/learning_action
+[6.597s] running install_egg_info
+[6.597s] Copying ../../../build/learning_action/learning_action.egg-info to /home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages/learning_action-0.0.0-py3.10.egg-info
+[6.597s] running install_scripts
+[6.647s] Installing action_move_client script to /home/ubuntu/dev_ws/install/learning_action/lib/learning_action
+[6.647s] Installing action_move_server script to /home/ubuntu/dev_ws/install/learning_action/lib/learning_action
+[6.648s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_action/install.log'
+[6.707s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_action' returned '0': AMENT_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/ubuntu/dev_ws/install/learning_interface LD_LIBRARY_PATH=/home/ubuntu/dev_ws/install/learning_interface/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/ubuntu/dev_ws/build/learning_action/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_action/lib/python3.10/site-packages:/home/ubuntu/dev_ws/install/learning_interface/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_action build --build-base /home/ubuntu/dev_ws/build/learning_action/build install --record /home/ubuntu/dev_ws/build/learning_action/install.log --single-version-externally-managed install_data

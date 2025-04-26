@@ -1,0 +1,45 @@
+[3.141s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_launch': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_launch build --build-base /home/ubuntu/dev_ws/build/learning_launch/build install --record /home/ubuntu/dev_ws/build/learning_launch/install.log --single-version-externally-managed install_data
+[3.613s] running egg_info
+[3.614s] creating ../../../build/learning_launch/learning_launch.egg-info
+[3.614s] writing ../../../build/learning_launch/learning_launch.egg-info/PKG-INFO
+[3.614s] writing dependency_links to ../../../build/learning_launch/learning_launch.egg-info/dependency_links.txt
+[3.614s] writing entry points to ../../../build/learning_launch/learning_launch.egg-info/entry_points.txt
+[3.614s] writing requirements to ../../../build/learning_launch/learning_launch.egg-info/requires.txt
+[3.614s] writing top-level names to ../../../build/learning_launch/learning_launch.egg-info/top_level.txt
+[3.614s] writing manifest file '../../../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[3.614s] reading manifest file '../../../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[3.614s] writing manifest file '../../../build/learning_launch/learning_launch.egg-info/SOURCES.txt'
+[3.614s] running build
+[3.615s] running build_py
+[3.615s] creating /home/ubuntu/dev_ws/build/learning_launch/build
+[3.615s] creating /home/ubuntu/dev_ws/build/learning_launch/build/lib
+[3.616s] creating /home/ubuntu/dev_ws/build/learning_launch/build/lib/learning_launch
+[3.616s] copying learning_launch/__init__.py -> /home/ubuntu/dev_ws/build/learning_launch/build/lib/learning_launch
+[3.617s] running install
+[3.617s] running install_lib
+[3.617s] creating /home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch
+[3.617s] copying /home/ubuntu/dev_ws/build/learning_launch/build/lib/learning_launch/__init__.py -> /home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch
+[3.617s] byte-compiling /home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch/__init__.py to __init__.cpython-310.pyc
+[3.617s] running install_data
+[3.617s] creating /home/ubuntu/dev_ws/install/learning_launch/share/ament_index
+[3.617s] creating /home/ubuntu/dev_ws/install/learning_launch/share/ament_index/resource_index
+[3.617s] creating /home/ubuntu/dev_ws/install/learning_launch/share/ament_index/resource_index/packages
+[3.617s] copying resource/learning_launch -> /home/ubuntu/dev_ws/install/learning_launch/share/ament_index/resource_index/packages
+[3.617s] copying package.xml -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch
+[3.617s] creating /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.617s] copying launch/parameters_nonamespace.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.617s] copying launch/parameters.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] copying launch/parameters_yaml.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] copying launch/namespaces.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] copying launch/remapping.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] copying launch/simple.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] copying launch/rviz.launch.py -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/launch
+[3.618s] creating /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/config
+[3.618s] copying config/turtlesim.yaml -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/config
+[3.618s] creating /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/rviz
+[3.620s] copying rviz/turtle_rviz.rviz -> /home/ubuntu/dev_ws/install/learning_launch/share/learning_launch/rviz
+[3.620s] running install_egg_info
+[3.620s] Copying ../../../build/learning_launch/learning_launch.egg-info to /home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages/learning_launch-0.0.0-py3.10.egg-info
+[3.621s] running install_scripts
+[3.621s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_launch/install.log'
+[3.702s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_launch' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_launch/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_launch build --build-base /home/ubuntu/dev_ws/build/learning_launch/build install --record /home/ubuntu/dev_ws/build/learning_launch/install.log --single-version-externally-managed install_data

@@ -1,0 +1,30 @@
+[4.022s] Invoking command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_node': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_node build --build-base /home/ubuntu/dev_ws/build/learning_node/build install --record /home/ubuntu/dev_ws/build/learning_node/install.log --single-version-externally-managed install_data
+[4.550s] running egg_info
+[4.550s] writing ../../../build/learning_node/learning_node.egg-info/PKG-INFO
+[4.553s] writing dependency_links to ../../../build/learning_node/learning_node.egg-info/dependency_links.txt
+[4.553s] writing entry points to ../../../build/learning_node/learning_node.egg-info/entry_points.txt
+[4.553s] writing requirements to ../../../build/learning_node/learning_node.egg-info/requires.txt
+[4.553s] writing top-level names to ../../../build/learning_node/learning_node.egg-info/top_level.txt
+[4.560s] reading manifest file '../../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[4.560s] writing manifest file '../../../build/learning_node/learning_node.egg-info/SOURCES.txt'
+[4.561s] running build
+[4.561s] running build_py
+[4.563s] copying learning_node/node_helloworld.py -> /home/ubuntu/dev_ws/build/learning_node/build/lib/learning_node
+[4.564s] copying learning_node/node_object.py -> /home/ubuntu/dev_ws/build/learning_node/build/lib/learning_node
+[4.566s] running install
+[4.568s] running install_lib
+[4.568s] copying /home/ubuntu/dev_ws/build/learning_node/build/lib/learning_node/node_helloworld.py -> /home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[4.569s] copying /home/ubuntu/dev_ws/build/learning_node/build/lib/learning_node/node_object.py -> /home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node
+[4.572s] byte-compiling /home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_helloworld.py to node_helloworld.cpython-310.pyc
+[4.574s] byte-compiling /home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node/node_object.py to node_object.cpython-310.pyc
+[4.577s] running install_data
+[4.583s] running install_egg_info
+[4.585s] removing '/home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info' (and everything under it)
+[4.588s] Copying ../../../build/learning_node/learning_node.egg-info to /home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages/learning_node-0.0.0-py3.10.egg-info
+[4.591s] running install_scripts
+[4.652s] Installing node_helloworld script to /home/ubuntu/dev_ws/install/learning_node/lib/learning_node
+[4.654s] Installing node_helloworld_class script to /home/ubuntu/dev_ws/install/learning_node/lib/learning_node
+[4.655s] Installing node_object script to /home/ubuntu/dev_ws/install/learning_node/lib/learning_node
+[4.655s] Installing node_object_webcam script to /home/ubuntu/dev_ws/install/learning_node/lib/learning_node
+[4.661s] writing list of installed files to '/home/ubuntu/dev_ws/build/learning_node/install.log'
+[4.815s] Invoked command in '/home/ubuntu/dev_ws/Src/ros2_21_tutorials-master/learning_node' returned '0': PYTHONPATH=/home/ubuntu/dev_ws/build/learning_node/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/dev_ws/install/learning_node/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../../build/learning_node build --build-base /home/ubuntu/dev_ws/build/learning_node/build install --record /home/ubuntu/dev_ws/build/learning_node/install.log --single-version-externally-managed install_data
